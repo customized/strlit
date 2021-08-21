@@ -1,0 +1,11 @@
+altair==4.1.0
+ipykernel==5.1.2
+pydeck
+streamlit==0.85.1
+streamlit-metrics==0.1.0
+pillow
+pandas
+matplotlib
+numpy
+requests
+vega_datasets
